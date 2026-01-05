@@ -1,0 +1,6 @@
+Host: https://jotcommerce.github.io
+User-agent: *
+
+Disallow:
+
+Sitemap: https://jotcommerce.github.io/sitemap.xml
